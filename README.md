@@ -1,4 +1,4 @@
-# Application ui
+# Application UI
 
 ### React Native App
 <img src="images/mobile_ui1.PNG" width="500">
