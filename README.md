@@ -1,5 +1,8 @@
 # Application UI
 
+### Holiday Booking Screen
+<img src="images/holiday_booking1.png" width="500">
+
 ### Trip Planner Map Screen
 <img src="images/tpm_ui1.png" width="500">
 
