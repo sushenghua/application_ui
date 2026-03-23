@@ -4,7 +4,7 @@
 <img src="images/holiday_booking1.png" width="500">
 
 ### Trip Planner Map Screen
-<img src="images/tpm_ui1.png" width="500">
+<img src="images/tpm_ui2.jpg" width="500">
 
 ### SGA Screen
 <img src="images/sga_ui1.png" width="800">
