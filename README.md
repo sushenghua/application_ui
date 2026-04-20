@@ -18,7 +18,7 @@
 <img src="images/sga_ui2.png" width="800">
 <img src="images/sga_ui3.png" width="800">
 
-### Dex Frontend (Comlex Web UI)
+### Dex Frontend (Complex Web UI)
 <img src="images/web_ui_complex.jpg" width="800">
 
 ### Q Monitor (React Native App)
