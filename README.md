@@ -1,5 +1,9 @@
 # Application UI
 
+### Parent Control
+<img src="images/networkcontrol_ui1.png" width="500">
+<img src="images/networkcontrol_ui2.png" width="500">
+
 ### Holiday Booking Screen
 <img src="images/holiday_booking1.png" width="500">
 
