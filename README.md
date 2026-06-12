@@ -29,6 +29,7 @@ https://github.com/user-attachments/assets/a3fc67a2-e2ae-4a76-bef5-0802baf6f80b
 
 ### Battery (Android App)
 <img src="images/mobile_ui2.jpg" width="500">
+<img src="images/mobile_ui4.jpg" width="500">
 
 ### Dehumidifer (Simple Web UI)
 <img src="images/web_ui_simple.jpg" width="500">
